@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://xaieckyo.github.io/sitemap/sitemap.txt
